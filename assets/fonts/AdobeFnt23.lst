@@ -1,0 +1,146 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/andreasmoren/Andreas Jobbmapp/S/Sodastream/Brand Pages/Material/Varle/Varle_Package/Document fonts/AdobeFnt23.lst
+FileLength:3621
+FileModTime:714653496
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HurmeGeometricSans3-Bold
+FamilyName:Hurme Geometric Sans 3
+StyleName:Bold
+MenuName:HurmeGeometricSans3 Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:HurmeGeometricSans3 Bold
+WritingScript:Roman
+OutlineFileName:/Users/andreasmoren/Andreas Jobbmapp/S/Sodastream/Brand Pages/Material/Varle/Varle_Package/Document fonts/Hurme-  Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:364200
+FileModTime:713972075
+NameArray:0,Mac,4,HurmeGeometricSans3 Bold
+NameArray:0,Win,1,HurmeGeometricSans3 Bold
+NameArray:0,Win,16,Hurme Geometric Sans 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HurmeGeometricSans3-Light
+FamilyName:Hurme Geometric Sans 3
+StyleName:Light
+MenuName:HurmeGeometricSans3 Light
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:HurmeGeometricSans3 Light
+WritingScript:Roman
+OutlineFileName:/Users/andreasmoren/Andreas Jobbmapp/S/Sodastream/Brand Pages/Material/Varle/Varle_Package/Document fonts/Hurme-  Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:342136
+FileModTime:713972075
+NameArray:0,Mac,4,HurmeGeometricSans3 Light
+NameArray:0,Win,1,HurmeGeometricSans3 Light
+NameArray:0,Win,16,Hurme Geometric Sans 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HurmeGeometricSans3-SemiBold
+FamilyName:Hurme Geometric Sans 3
+StyleName:SemiBold
+MenuName:HurmeGeometricSans3 SemiBold
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:HurmeGeometricSans3 SemiBold
+WritingScript:Roman
+OutlineFileName:/Users/andreasmoren/Andreas Jobbmapp/S/Sodastream/Brand Pages/Material/Varle/Varle_Package/Document fonts/Hurme-  Semi Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:365260
+FileModTime:713972075
+NameArray:0,Mac,4,HurmeGeometricSans3 SemiBold
+NameArray:0,Win,1,HurmeGeometricSans3 SemiBold
+NameArray:0,Win,16,Hurme Geometric Sans 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HurmeGeometricSans3-Regular
+FamilyName:Hurme Geometric Sans 3
+StyleName:Regular
+MenuName:HurmeGeometricSans3 Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:HurmeGeometricSans3 Regular
+WritingScript:Roman
+OutlineFileName:/Users/andreasmoren/Andreas Jobbmapp/S/Sodastream/Brand Pages/Material/Varle/Varle_Package/Document fonts/Hurme- Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:332892
+FileModTime:713972075
+NameArray:0,Mac,4,HurmeGeometricSans3 Regular
+NameArray:0,Win,1,HurmeGeometricSans3 Regular
+NameArray:0,Win,16,Hurme Geometric Sans 3
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheinhardtExtended-Medium
+FamilyName:Theinhardt Extended
+StyleName:Medium
+MenuName:Theinhardt Extended Medium
+StyleBits:0
+WeightClass:500
+WidthClass:7
+AngleClass:0
+FullName:Theinhardt Extended Medium
+WritingScript:Roman
+OutlineFileName:/Users/andreasmoren/Andreas Jobbmapp/S/Sodastream/Brand Pages/Material/Varle/Varle_Package/Document fonts/Theinhardt-Extended-Medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:84208
+FileModTime:713972075
+NameArray:0,Mac,4,Theinhardt Extended Medium
+NameArray:0,Win,1,Theinhardt Extended Medium
+NameArray:0,Win,16,Theinhardt Extended
+%EndFont
+

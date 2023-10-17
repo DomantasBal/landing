@@ -1,0 +1,64 @@
+.fade-in-section {
+  opacity: 0;
+  transition: opacity 1s ease-out;
+  will-change: opacity;
+}
+
+.fade-in-section.visible {
+  opacity: 1;
+}
+
+/* Fly-in animations */
+@keyframes flyInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes flyInRight {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.fly-in-left-active {
+  animation-name: flyInLeft;
+  animation-duration: 1s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+}
+
+.fly-in-right-active {
+  animation-name: flyInRight;
+  animation-duration: 1s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+}
+
+@keyframes flyInCenter {
+  from {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.fly-in-center-active {
+  animation-name: flyInCenter;
+  animation-duration: 1s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+}
