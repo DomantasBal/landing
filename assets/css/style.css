@@ -359,6 +359,16 @@
   z-index: 1000;
 }
 
+.text-end {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.text-end span {
+  text-align: left;
+}
+
 @media only screen and (max-width: 1280px) {
   .post-slide .post-content {
     padding: 0px 15px 25px 15px;
