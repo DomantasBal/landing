@@ -1,5 +1,6 @@
 let btn = document.getElementById('translate');
 let languagesBar = document.getElementById('languagesBar');
+let bgElement = document.querySelector('.set-bg-dotted');
 
 function toggleLanguageOptions() {
   if (
@@ -28,10 +29,8 @@ function selectLanguage(language) {
 
 function translateToEnglish() {
   window.location.href = 'index.html';
-  console.log('EN');
 }
 
 function translateToLithuanian() {
-  console.log('LT');
   window.location.href = 'index-lt.html';
 }
