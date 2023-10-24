@@ -28,9 +28,9 @@ function selectLanguage(language) {
 }
 
 function translateToEnglish() {
-  window.location.href = 'index.html';
+  window.location.href = 'index-en.html';
 }
 
 function translateToLithuanian() {
-  window.location.href = 'index-lt.html';
+  window.location.href = 'index.html';
 }
